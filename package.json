@@ -1,6 +1,0 @@
-{
-  "name": "boostora",
-  "version": "1.0.0",
-  "description": "Boostora — AI Website Auditor & Business Growth Consultant",
-  "engines": { "node": ">=18" }
-}
